@@ -1,0 +1,91 @@
+** 25 - Feb
+
+Group meeting in the tutorial-lab: 2 hours
+    - Did a collective reading of the task
+    - Discussed the order of how we should approach things
+    - Worked out schedules of each member and assigned
+    - Discussed the mediums we should use to communicate, collaborate for each member's convenience
+    - Deadline: Next Friday, try get all of 6.2 done
+
+** 1 - March
+Check-up Meeting in discord/messenger: 1~ hour
+    - Housekeeping on everyone's progress
+    - On track to get it done by tomorrow (2nd), get a prototype + tests for all specifications at the very least
+    - To-do: channel_messages_v1, channel_join_v1, resolve variable names so we are all on the same page on what is used
+    - Debug: channel_invite_v1, channel_details_v1
+    - Goal: Pass all pipelines by Friday
+
+** 4 - March
+
+Group meeting in the tutorial-lab: 2 hours 
+    - Discuessed better group and project work methods in order to attain better Project Management & Teamwork skills.
+    - Committed to using agile standups and also improving documentation of group discussions and minutes. 
+    
+    - Clarified on what was left that needed to be done, as well as the mark in the leadership board, and the problem areas associated with our 
+      20-30 mark
+    - Need to get a copy of channel tests to run it locally to identify issues with code
+
+
+** 7 - March
+
+Group meeting night before due date: 1 hr
+    - Discussed what needed to be done
+    - Finalised commenting and testing
+    - Added edge cases for testing
+    - Fixed coverage to ensure close to 100% coverage
+
+** 12 - March
+
+Group meeting: 1 hr
+    - Discussed the results of Iteration 1
+    - Talked about how we would tackle time management for Iteration 2, how we could improve from Iteration 1
+    - Talked about things we'd learnt and how we would apply them into Iteration 2
+    - Talked about tokens
+
+** 14 - March
+
+Group meeting: 1 hr
+    - Talked about how we are progressing, talked 
+    - Confirmed we would be doing a standup soon and adding extra documentation into git
+    - talked more about tokens
+
+
+** 25 - March
+
+Group meeting: 45 min
+    - Discussed results of leaderboard, identifying that our poor mark was because debug mode was on
+    - Discuessed test design, clearing up some poor design choices, and acknowledging issues that may arise
+    - Talked about what we would need to finalise in last mile until assignment is due
+    - Goal: Pass all pipelines by Saturday
+    
+
+** 8 - April
+
+Group meeting: 45 min
+    - Allocated group work allocation
+    - Resolved to finish all functions by 11th April to be able to make leaderboard with full implementation
+    - Deadlines for all functions are 11th
+    - Ensured that we commited tests before implementation
+
+    Group Allocation is as follows:
+
+    FUCNTIONS		Who Take	
+notifications/get/v1		Morris	
+search/v1		Param	
+message/share/v1		Morris	
+message/react/v1		Morris	
+message/unreact/v1		Morris	
+message/pin/v1		Param	
+message/unpin/v1		Param	
+message/sendlater/v1		Morris	
+message/sendlaterdm/v1		Morris	
+standup/start/v1		Roland	
+standup/active/v1		Roland	
+standup/send/v1		Roland	
+auth/passwordreset/request/v1		Michael	
+auth/passwordreset/reset/v1		Michael	
+user/profile/uploadphoto/v1		Morris	
+user/stats/v1		Michael	
+users/stats/v1		Michael	
+Written Report		Michael	
+    
